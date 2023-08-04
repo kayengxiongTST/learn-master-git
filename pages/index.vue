@@ -1,5 +1,5 @@
 <template>
-    <div></div>
+    <div>New updates</div>
 </template>
 <script setup lang="ts">
 </script>
